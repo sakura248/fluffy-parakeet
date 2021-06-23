@@ -1,4 +1,4 @@
-# Lab2 - Java Collections Framework: ArrayList
+# Lab3 - Java Collections Framework: ArrayList
 
 ## Q1:
 
@@ -13,7 +13,7 @@ import java.util.ArrayList;
 import java.util.Random;
 import java.util.Scanner;
 
-public class Lab2Q1 {
+public class Lab3Q1 {
 
 	public static void main(String[] args) {
 		
@@ -34,7 +34,7 @@ public class Lab2Q1 {
 import java.util.ArrayList;
 import java.util.Random
 
-public class Lab2Q2 {
+public class Lab3Q2 {
 
 	public static void main(String[] args) {
 		
@@ -56,7 +56,7 @@ public class Lab2Q2 {
 import java.util.ArrayList;
 import java.util.List;
 
-public class Lab2Q3 {
+public class Lab3Q3 {
 
     public static void main(String[] args){
         
